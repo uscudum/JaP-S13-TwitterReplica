@@ -1,5 +1,6 @@
 # JaP-S13-TwitterReplica
 
+Solución realizada por: Martin Hegui, Nicolas Rodriguez y Noelia Alvarez
 
 <img src="https://github.com/uscudum/JaP-S13-TwitterReplica/blob/master/img/result.PNG">
 
