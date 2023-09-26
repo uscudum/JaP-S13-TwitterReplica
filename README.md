@@ -1,6 +1,7 @@
 # JaP-S13-TwitterReplica
 
-
+En este ejercicio intentaremos realizar una réplica del antiguo twitter.
+La idea es que puedan crear su propio servidor de JSON para podes alimentar nuestra red social con varios twits
 <img src="https://github.com/uscudum/JaP-S13-TwitterReplica/blob/master/img/result.PNG">
 
 
